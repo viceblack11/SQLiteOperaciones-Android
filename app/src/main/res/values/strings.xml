@@ -5,4 +5,5 @@
     <string name="usuario_password">Contraseña</string>
     <string name="txt_password">Introduzca la Contraseña</string>
     <string name="btn_agregar_usuario">Usuario</string>
+    <string name="btn_ver_datos">Datos</string>
 </resources>
